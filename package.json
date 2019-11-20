@@ -16,5 +16,8 @@
   "devDependencies": {
     "sass": "^1.23.7",
     "typescript": "^3.7.2"
-  }
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
 }
