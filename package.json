@@ -1,0 +1,20 @@
+{
+  "name": "guagame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ForJing/GuaGame.git",
+  "author": "forjing <xiaodoubao1994@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "react": "15.x || 16.x || 16.4.0-alpha.0911da3",
+    "react-dom": "15.x || 16.x || 16.4.0-alpha.0911da3"
+  },
+  "devDependencies": {
+    "sass": "^1.23.7",
+    "typescript": "^3.7.2"
+  }
+}
